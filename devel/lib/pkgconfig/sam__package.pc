@@ -1,0 +1,8 @@
+prefix=/home/samarthpatil/my_ws/devel
+
+Name: sam__package
+Description: Description of sam__package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

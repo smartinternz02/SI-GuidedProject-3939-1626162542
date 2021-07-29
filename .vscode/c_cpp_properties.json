@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/samarthpatil/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/samarthpatil/catkin_ws/src/my_first_package/include/**",
+        "/home/samarthpatil/catkin_ws/src/ros_actions/include/**",
+        "/home/samarthpatil/catkin_ws/src/ros_service/include/**",
+        "/home/samarthpatil/catkin_ws/src/ros_topics/include/**",
+        "/home/samarthpatil/my_ws/src/sam__package/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

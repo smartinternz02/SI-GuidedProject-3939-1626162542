@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="ros_topics" type="publishersam.py" name="publisher" output="screen">
+    </node>
+
+    <node pkg="ros_topics" type="subscribersam.py" name="subscriber" output="screen">
+    </node>
+
+</launch>

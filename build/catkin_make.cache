@@ -1,0 +1,2 @@
+ros_topics:sam__package
+-DCATKIN_DEVEL_PREFIX=/home/samarthpatil/my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/samarthpatil/my_ws/install -G Unix Makefiles

@@ -1,0 +1,10 @@
+<launch>
+    <node pkg="sam__package" type="node_loop_one.py" name="loop_node_one" output="screen">
+    </node>
+
+    <node pkg="sam__package" type="node_loop_two.py" name="loop_node_two" output="screen">
+    </node>
+
+    <node pkg="sam__package" type="node_loop_three.py" name="loop_node_three" output="screen">
+    </node>
+</launch>
